@@ -12,8 +12,8 @@ summarisation-bart/
 │
 ├── data/                  # Disk-saved datasets (train/val/test)
 │
-├── outputs/               # Saved model found at https://huggingface.co/ashbeexd/summarisation-bart/tree/main (files were too large to upload to GitHub)
-│   └── model/
+├── outputs/               # Saved model found at https://huggingface.co/ashbeexd/summarisation-bart/tree/main 
+│   └── model/             # (files were too large to upload to GitHub)
 │
 ├── src/                   # Source scripts
 │   ├── data_loader.py
