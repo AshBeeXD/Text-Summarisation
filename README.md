@@ -30,6 +30,7 @@ summarisation-bart/
 ├── requirements.txt
 └── README.md
 ```
+The outputs folder contains compressed files as the files were too large to upload through GitHub or GitLFS
 
 ## Model
 
