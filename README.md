@@ -91,8 +91,14 @@ The following plots were generated to analyze trends across checkpoints:
 - **Grouped Bar Chart for ROUGE and BERTScore**  
   A grouped bar chart compares ROUGE-1, ROUGE-2, ROUGE-L, and BERTScore (F1) scores across all evaluated checkpoints. The visualization highlights progressive improvement in performance as training advances.
 
+<img width="878" alt="Screenshot 2025-07-04 at 7 40 23 PM" src="https://github.com/user-attachments/assets/638e787f-47dc-4b85-a6d9-e4cf44556de0" />
+
+
 - **Summary Length Comparison**  
   A bar chart displays the average predicted summary length versus the reference summary length. This comparison shows that while semantic accuracy improves, predicted summaries remain significantly longer than the reference targets.
+
+<img width="832" alt="Screenshot 2025-07-04 at 7 40 18 PM" src="https://github.com/user-attachments/assets/78bdf313-0e50-43e5-b624-a4bff5967c73" />
+
 
 These metrics and plots were used to identify the most effective checkpoint and gain insight into model behavior over time.
 
