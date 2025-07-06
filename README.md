@@ -5,7 +5,7 @@ This project implements a BART-based abstractive summarization model trained on 
 ## Project Structure
 
 ```
-summarisation-bart/
+Text-Summarisation/
 │
 ├── app/                   # Hugging Face Space application
 │   └── app.py
